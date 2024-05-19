@@ -2,7 +2,7 @@
   "name": "my-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://asgard-33.github.io/travelbook/",
+  "homepage": "https://asgard-33.github.io/travelbook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
