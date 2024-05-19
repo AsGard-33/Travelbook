@@ -128,3 +128,54 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Build directories
+build/
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+nuxt-dist/
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Bower dependency directory (https://bower.io/)
+bower_components
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
